@@ -8,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Tools & Technology
 * React
+* Axios
+* Unsplash API
 * Git & Github
 * VS Code
 <!-- * [Semantic-ui](https://semantic-ui.com/views/card.html)   -->
